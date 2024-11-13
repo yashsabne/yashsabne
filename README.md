@@ -2,7 +2,6 @@
 
 - 🔭 I’m a tech enthusiast passionate about **web development**, **DevOps** and new leading technologies .
 - 👀 I’m interested in building efficient, scalable, and visually appealing **web applications** using the **MERN stack**.
-- 🌱 I’m currently honing my skills in **DevOps practices**, with a focus on **Kubernetes, Docker, and cloud technologies**.
 - 💬 I’m open to collaborating on projects involving **web development**, **data science**, **AI/ML**, or anything that pushes boundaries!
 - 💞️ Let’s connect and create together. Whether it's contributing to open-source, building startups, or creating innovative tools, I’m excited to explore opportunities.
 - 📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yash-sabne-77239b287/) or email at **yashsabne39@gmail.com**.
