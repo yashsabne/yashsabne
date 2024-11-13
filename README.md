@@ -1,8 +1,8 @@
 ### 👋 Hi there, I’m Yash Navnath Sabne!
 
-- 🔭 I’m a tech enthusiast passionate about **web development**, **DevOps** and new leading technologies .
+- 🔭 I’m a tech enthusiast passionate about **web development**, and new leading technologies .
 - 👀 I’m interested in building efficient, scalable, and visually appealing **web applications** using the **MERN stack**.
-- 💬 I’m open to collaborating on projects involving **web development**, **data science**, **AI/ML**, or anything that pushes boundaries!
+- 💬 I’m open to collaborating on projects involving **web development**, or anything that pushes boundaries!
 - 💞️ Let’s connect and create together. Whether it's contributing to open-source, building startups, or creating innovative tools, I’m excited to explore opportunities.
 - 📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yash-sabne-77239b287/) or email at **yashsabne39@gmail.com**.
 - 😄 Pronouns: He/Him
@@ -12,8 +12,6 @@
 
 ### 💻 Skills & Technologies:
 - **Web Development**: HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, REST APIs
-- **DevOps**: Docker, Kubernetes, Linux, AWS, CI/CD
-- **Machine Learning Basics**: TensorFlow, PyTorch
 - **Programming**: C, Java
 - **Tools**: Git, Bootstrap, Tailwind CSS, Postman and hosting like Render, Vercel, etc
 
