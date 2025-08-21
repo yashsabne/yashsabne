@@ -17,7 +17,6 @@
 - **DevOps:** Version Control (Git, GitHub), CI/CD (GitHub Actions), Web Servers (NGINX, Apache), Shell Scripting, Basic Docker, Environment Variables Management, Monitoring Logs.
 - **Database:** MongoDB, MySQL, PostgreSQL.
 - **CS Fundamentals:** Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), DBMS, Operating Systems, Computer Networks.
-- **Soft Skills:** Good Communication, Problem-solving, Teamwork, Adaptability, Time management
 
 ---
 
