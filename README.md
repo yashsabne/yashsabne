@@ -6,7 +6,7 @@
 -  Let’s connect and create together. Whether it's contributing to open-source, building startups, or creating innovative tools, I’m excited to explore opportunities.
 -  Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yash-sabne-77239b287/) or email at **yashsabne39@gmail.com**.
 -  Pronouns: He/Him
--  Fun fact: I enjoy solvoing and challenging myself with strategy games. I'm also keen on learning new technologies and constantly improving my problem-solving skills.
+-  Fun fact: I enjoy solving and challenging myself with strategy games. I'm also keen on learning new technologies and constantly improving my problem-solving skills.
 
 ---
 
