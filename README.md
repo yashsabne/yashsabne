@@ -23,11 +23,8 @@
 ### 🏆 Notable Projects:
 - **RentSmart**: A dark-mode themed property rental and selling platform with advanced features like private chat, secure payments, and a professional dashboard.
 - **LendLInk**: A product as service made for those who wants to save money at no risk. just add the money and rotatary winning will be there. which is traditional saving in india by housewifes
-
+- **Kashvi Online Store:** Developed an end-to-end e-commerce platform with features for secure checkout, inventory management, and seamless customer order processing.
 
 ---
-
-### 📈 GitHub Stats:
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashsabne&show_icons=true&theme=radical)
-
+ 
 Let's connect and build something amazing together! 🚀
