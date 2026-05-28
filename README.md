@@ -119,16 +119,7 @@ Full-stack E-Commerce Platform.
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=yashsabne&theme=tokyonight&hide_border=true&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashsabne&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashsabne&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
+ 
 # 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash_Sabne-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-sabne-77239b287)
