@@ -118,7 +118,9 @@ Full-stack E-Commerce Platform.
 - Responsive Design
 
 ---
+## GitHub Stats
 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yashsabne&show_icons=true&theme=tokyonight)
  
 # 🌐 Connect With Me
 
