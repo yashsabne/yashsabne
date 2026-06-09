@@ -117,11 +117,16 @@ Full-stack E-Commerce Platform.
 - Inventory Management
 - Responsive Design
 
----
-## GitHub Stats
+---## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yashsabne&show_icons=true&theme=tokyonight)
- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashsabne&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=yashsabne&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsabne&layout=compact&theme=tokyonight" height="180"/>
+</p>
 # 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash_Sabne-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-sabne-77239b287)
