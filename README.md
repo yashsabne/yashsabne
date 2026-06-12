@@ -117,7 +117,9 @@ Full-stack E-Commerce Platform.
 - Inventory Management
 - Responsive Design
 
----## GitHub Stats
+---
+
+## GitHub Stats
 
  
   <img src="https://github-readme-stats.vercel.app/api?username=yashsabne&show_icons=true&theme=tokyonight" height="180"/>
