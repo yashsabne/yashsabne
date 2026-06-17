@@ -123,8 +123,7 @@ Full-stack E-Commerce Platform.
 
  
   <img src="https://github-readme-stats.vercel.app/api?username=yashsabne&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=yashsabne&theme=tokyonight" height="180"/>
- 
+  <img src="https://streak-stats.demolab.com/?user=yashsabne&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsabne&layout=compact&theme=tokyonight" height="180"/>
  
 # 🌐 Connect With Me
