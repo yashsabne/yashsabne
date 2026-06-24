@@ -103,7 +103,7 @@ A production-ready rental platform rebuilt from scratch as **6 independently dep
 | 📊 Activity Service | Centralised user event logging for analytics and audit trails |
 
 **Stack:** `React 19` `Vite 8` `Node.js` `Express 5` `MongoDB` `Redis` `Socket.IO` `Razorpay` `Cloudinary` `Docker` `Passport.js` `JWT` `Tailwind CSS v4`  
-[![Live](https://img.shields.io/badge/Live%20Demo-Visit-4F46E5?style=flat-square&logo=vercel)](https://rentsmart-v2.vercel.app)
+[![Live](https://img.shields.io/badge/Live%20Demo-Visit-4F46E5?style=flat-square&logo=vercel)](https://rentsmart.fun)
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/yashsabne/rentsmart_v2)
 
 ---
