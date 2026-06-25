@@ -157,14 +157,30 @@ A clean, modular banking system built with Java OOP principles — deposits, wit
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashsabne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=yashsabne&theme=tokyonight&hide_border=true" height="180"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yashsabne&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yashsabne&theme=tokyonight&hide_border=true" />
+
 </div>
+
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsabne&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashsabne&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsabne&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 </div>
 
 ---
