@@ -156,14 +156,13 @@ A clean, modular banking system built with Java OOP principles — deposits, wit
 - 🚀 Deployed multiple full-stack MERN applications with auth, payments, and real-time features
 
 ---
-
 # 📊 GitHub Stats
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=yashsabne&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yashsabne&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com/?user=yashsabne&theme=tokyonight&hide_border=true" />
 
 </div>
 
