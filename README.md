@@ -108,7 +108,7 @@ A production-ready rental platform rebuilt from scratch as **6 independently dep
 
 ---
 
-### 💰 [LendLink](https://github.com/yashsabne) — Group Savings & Contribution Platform
+### 💰 [LendLink](https://github.com/yashsabne/LendLink) — Group Savings & Contribution Platform
 > *Rotating savings (chit fund) system with real-time chat and verifiable payouts.*
 
 A microservices-based community finance platform that automates and verifies group winner selection through a **custom fair rotation algorithm**. Built with transparency at its core — screen recording during payout ensures no disputes.
@@ -123,7 +123,7 @@ A microservices-based community finance platform that automates and verifies gro
 
 ---
 
-### 🛒 [Kashvi Online Store](https://github.com/yashsabne) — Full-Stack E-Commerce Platform
+### 🛒 [Kashvi Online Store](https://github.com/yashsabne/kashvi_GWOC_final) — Full-Stack E-Commerce Platform
 > *Production-ready e-commerce delivered in 12 days for Google Winter of Code (NIT Surat)*
 
 A complete e-commerce application with inventory management, order processing, secure checkout, and real-time features — built under strict deadline as a **Google Winter of Code contributor**.
@@ -138,7 +138,7 @@ A complete e-commerce application with inventory management, order processing, s
 
 ---
 
-### 🏦 [Banking System](https://github.com/yashsabne) — Java OOP + REST API
+### 🏦 [Banking System](https://github.com/yashsabne/java_project_Bank) — Java OOP + REST API
 > *Modular banking engine with full CRUD operations and overdraft handling.*
 
 A clean, modular banking system built with Java OOP principles — deposits, withdrawals, transfers, and overdraft protection — using Java Collections for efficient in-memory account management.
