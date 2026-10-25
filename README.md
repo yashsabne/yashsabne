@@ -12,7 +12,6 @@
 💻 Full Stack **MERN Developer**  
 🚀 Passionate about **Backend Systems, Microservices & System Design**  
 🐳 Building with **Docker, Redis, Socket.IO & distributed architectures**  
-🧠 **DSA** — 300+ problems on LeetCode  
 🤝 Open to collaborating on impactful software  
 
 📧 **yashsabne39@gmail.com**
