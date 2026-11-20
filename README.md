@@ -151,7 +151,7 @@ A clean, modular banking system built with Java OOP principles — deposits, wit
 - 🧩 **300+ problems** solved on LeetCode and other competitive programming platforms
 - 🎯 **Technical Executive, Mindbend (SVNIT)** — Organized Gujarat's largest techno-managerial fest with **10,000+ participants**
 - 🤝 **Google Winter of Code Contributor (NIT Surat)** — Delivered production-ready e-commerce project under strict deadline
-- 📜 **NPTEL Certified** — Database Management Systems (IIT Kanpur)
+- 📜 **NPTEL Certified** — Database Management Systems (IIT Kharagpur)
 - 🚀 Deployed multiple full-stack MERN applications with auth, payments, and real-time features
 
 ---
