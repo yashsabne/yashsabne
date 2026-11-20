@@ -173,11 +173,6 @@ A clean, modular banking system built with Java OOP principles — deposits, wit
 
 </div>
 
-<div align="center">
- 
-<img height="170" src="https://streak-stats.demolab.com/?user=yashsabne&theme=tokyonight&hide_border=true" />
-
-</div>
 
 <div align="center">
 
