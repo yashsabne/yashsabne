@@ -159,6 +159,21 @@ A clean, modular banking system built with Java OOP principles — deposits, wit
 
 <div align="center">
 
+[![yashsabne's GitHub stats](https://gitshine.com/card/yashsabne)](https://gitshine.com/stats/yashsabne)
+
+</div>
+<div align="center">
+
+[![yashsabne's GitHub stats](https://gitshine.com/card/yashsabne?layout=wrapped)](https://gitshine.com/stats/yashsabne)
+
+</div>
+<div align="center">
+
+[![yashsabne's GitHub stats](https://gitshine.com/card/yashsabne?layout=sky)](https://gitshine.com/stats/yashsabne)
+
+</div>
+
+<div align="center">
  
 <img height="170" src="https://streak-stats.demolab.com/?user=yashsabne&theme=tokyonight&hide_border=true" />
 
