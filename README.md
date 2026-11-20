@@ -163,9 +163,13 @@ A clean, modular banking system built with Java OOP principles — deposits, wit
 <img height="170" src="https://streak-stats.demolab.com/?user=yashsabne&theme=tokyonight&hide_border=true" />
 
 </div>
+
 <div align="center">
- [![yashsabne's GitHub badges](https://gitshine.com/badges/yashsabne)](https://gitshine.com/stats/yashsabne#badges)
-</div>
+
+[![yashsabne's GitHub badges](https://gitshine.com/badges/yashsabne)](https://gitshine.com/stats/yashsabne#badges)
+ 
+</div
+ 
 ---
 
 ## 🌐 Connect With Me
